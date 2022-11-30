@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+final_dataset
+test_output_damage
+test_output_no_damage
+model.h5
